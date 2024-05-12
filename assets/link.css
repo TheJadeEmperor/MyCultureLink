@@ -18,35 +18,60 @@ body {
   cursor: url('../images/favicon.png'), auto; 
 }
 
-#menuContainer {
-  display: flex; /* Use flexbox */
-  background-color: rgba(22, 34, 57, 0);
-  position: fixed;
-  width: 100%;
+/* Reset styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-/* Style for the menu divs */
-.menu {
-  background-color: rgba(22, 34, 57, 0); 
-  padding: 10px 20px;
-  text-align: center;
-  flex: 1 1 33%;
+body {
+  font-family: Arial, sans-serif;
 }
 
-  .menu a {
-    color: #fff;
-    text-decoration: none;
-    margin: 0 3%;
-    font-size: 22px;
-    font-family: "Barlow", sans-serif;
+.menuContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.logo img {
+  max-width: 100%;
+  height: auto;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+}
+
+nav ul li {
+  margin-left: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .menuContainer {
+    flex-direction: column;
+    text-align: center;
   }
 
-/* Style for the logo div */
-.logo { 
-  padding: 10px;
-  text-align: center; 
-  flex: 1 1 33%;
+  .logo {
+    margin-bottom: 20px;
+  }
+
+  nav ul {
+    flex-direction: column;
+  }
+
+  nav ul li {
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
 }
+
 
 #logo {
   width: 70%; 

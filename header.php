@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>5GRadio1.com Q96FM Listen Live 247</title>
+  <title>MyCultureLink</title>
   <link rel="icon" type="image/x-icon" href="images/favicon.png">
   
 
@@ -20,12 +20,6 @@
 -->
  <!-- hoverbox gallery -->
  
-  <style>
-  .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-    width: 100%;
-    margin: auto;
-  }
   </style>
 
   <script>
@@ -60,3 +54,18 @@
   
 </head>
 <body id="slider"> 
+<header>
+  <div class="menuContainer">
+    <div class="logo">
+      <h1>MyCultureLink</h1> <!--<img src="images/logo.jpg" />-->
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#">Media</a></li>
+        <li><a href="#">Music</a></li>
+        <li><a href="#">Marketing</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
