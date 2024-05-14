@@ -26,20 +26,32 @@
 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
 <div class="elfsight-app-7b1f289d-4ad0-446a-8543-6693f4038fd2" data-elfsight-app-lazy></div>
 
-<div class="row">
+  <div class="row">
     <div class="col-lg">
-      <h2>Media &#x2022; Music &#x2022; Marketing</h2>
+      <h2 id="home">Media &#x2022; Music &#x2022; Marketing</h2>
       <h1>Under Construction</h1>
       <p>We are currently working on our website. Please check back later!</p>
       <p>For business inquiries, please email us at <a href="mailto:dacapo5580@yahoo.com">dacapo5580@yahoo.com</a></p>
 
     </div>
   </div>
- 
+
 
   <div class="row">
     <div class="col-lg">
-      <h1>Gallery</h1>
+      <h1 id="about">About Rick Ivey</h1>
+     
+        <img src="images/gallery/rick.jpg" class="about" />
+        <p>this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey</p>
+        <p>this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey</p>
+        <p>this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey</p>
+    </div>
+  </div>
+
+
+  <div class="row">
+    <div class="col-lg">
+      <h1 id="gallery">Gallery</h1>
     </div>
   </div>
   <div class="row">

@@ -43,8 +43,8 @@
 
 /* The Close Button */
 
-.modal .close {
-  color: rgb(209, 209, 209);
+.modal .closeButton {
+  color: rgb(255, 255, 255);
   position: absolute;
   top: 20px;
   right: 25px;
@@ -52,8 +52,8 @@
   font-weight: bold;
 }
 
-.modal .close:hover {
-  color: rgb(255, 255, 255);
+.modal .closeButton:hover {
+  color: rgb(243, 230, 230);
   text-decoration: none;
   cursor: pointer;
 }
@@ -96,6 +96,10 @@
 .modal .next {
   right: 0;
   border-radius: 3px 0 0 3px;
+}
+
+.modal .prev {
+  left: 0;
 }
 
 
