@@ -1,11 +1,3 @@
-body {
-  font-family: Verdana, sans-serif;
-  margin: 0;
-  width: 100%;
-  color: white;
-  background-color: black;
-}
-
 * {
   box-sizing: border-box;
 }
@@ -169,6 +161,14 @@ img {
 .hoverbox {
   cursor: default;
   list-style: none;
+  margin-left: 5%;
+}
+
+@media screen and (max-width: 768px) {
+  
+  .hoverbox {  
+    margin-left: 20%;
+  }
 }
 
 .hoverbox a .preview_portrait,
@@ -223,7 +223,7 @@ img {
   padding: 2px;
   vertical-align: top;
   width: 200px;
-  height: 150px;
+  height: 200px;
 }
 
 .hoverbox .preview_portrait {
@@ -235,7 +235,7 @@ img {
 
 .hoverbox img.preview_tall {
   border-color: #FFF;
-  width: 200px;
+  width: 250px;
   height: 300px;
   cursor: crosshair;
 }
