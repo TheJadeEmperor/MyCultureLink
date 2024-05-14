@@ -33,6 +33,8 @@
       <p>We are currently working on our website. Please check back later!</p>
       <p>For business inquiries, please email us at <a href="mailto:dacapo5580@yahoo.com">dacapo5580@yahoo.com</a></p>
 
+      <p>this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick iveythis is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick iveythis is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey</p>
+
     </div>
   </div>
 
@@ -42,6 +44,8 @@
       <h1 id="about">About Rick Ivey</h1>
      
         <img src="images/gallery/rick.jpg" class="about" />
+        <p>this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey</p>
+        <p>this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey</p>
         <p>this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey</p>
         <p>this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey</p>
         <p>this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey this is filler text about rick ivey</p>

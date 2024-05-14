@@ -102,6 +102,7 @@ nav ul li {
 
 .about {
   float: left;
+  margin-right: 7%;
 }
 
   @media (max-width: 768px) {
