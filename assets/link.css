@@ -105,6 +105,10 @@ nav ul li {
   margin-right: 7%;
 }
 
+.row {
+  margin-top: 50px;
+}
+
   @media (max-width: 768px) {
     #livestream { 
       position: unset;

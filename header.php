@@ -100,6 +100,8 @@ function gallery_function($atts) {
     <p id="caption">'.$postTitle.'</p>
     </div>
     </div>
+    </div>
+    </div>
     </div>';
 
     return $galleryContent;
