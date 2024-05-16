@@ -83,20 +83,29 @@
     <h1 id="products">Products</h1>
 
     <div class="catalog">
-        <div class="product">
-            <img src="images/products/FEN 2370200 000_M-HiRes.jpg" alt="Product 1" class="product-image">
-            <div class="product-details">
-                <h2 class="product-title">Product 1</h2>
-                <p class="product-description">This is a brief description of Product 1. It has many great features and benefits.</p>
-                <p class="product-price">$99.99</p>
+      <div class="product">
+        <div class="thumbs"> 
+          <!--<img src="images/products/FEN 2370200 000_M-HiRes.jpg" alt="Product 1" class="product-image">-->
+        </div>
+       
+        <img src="images/products/FEN 2370200 000_M-HiRes.jpg" alt="Product 1" class="product-image">
+          <div class="product-details">
+                <h2 class="product-title">Fender Rumble 25 V3 25 Watt 1x8 Bass Guitar Combo Amplifier </h2>
+                <p class="product-description">Description For Fender Rumble 25 V3 25 Watt 1x8 Bass Guitar Combo Amplifier 
+25 watts never sounded so good! Fender designed the Rumble 25 V3 bass combo amp to deliver surprising power from 25 watts and a larger, ported speaker enclosure which houses a single 8-inch speaker. In addition to standard volume and EQ controls, the Rumble 25 adds a newly-developed overdrive circuit and switchable Contour control, delivering gritty bite and slap-worthy punch at the mere push of a button.</p>
+                <p class="product-price">$129.99</p>
             </div>
         </div>
         <div class="product">
-            <img src="images/products/339251_339251-Generic-1-Original.jpg" alt="Product 2" class="product-image">
-            <div class="product-details">
-                <h2 class="product-title">Product 2</h2>
-                <p class="product-description">This is a brief description of Product 2. It has many great features and benefits.</p>
-                <p class="product-price">$199.99</p>
+          <img src="images/products/339251_339251-Generic-1-Original.jpg" alt="Product 2" class="product-image">
+          <div class="product-details">
+          <h2 class="product-title">Epiphone Slash AFD Les Paul Special II Performance Package</h2>
+          <p class="product-description"><p>Description For Epiphone Slash AFD Les Paul Special II Performance Package </p>
+
+          <p>Satisfy your Appetite for Destruction! This Slash signature performance pack has quality and features never before seen in a pack! Endorsed and promoted by Slash himself, this pack includes a Les Paul “AFD” Special-II Guitar, a Slash Snakepit-15 Amplifier, custom gigbag with Snakepit logo, Slash signature Dunlop Tortex picks, eMedia available in English, German, French and Spanish, and an instrument strap and cord.</p>
+
+          <p>The Les Paul AFD Special-II guitar is equipped with new Ceramic Plus Humbucking pickups, a AAA Flame Maple top with cherry Mahogany back, a bound body, and a built in Shadow pickup ring E-Tuner. The Slash Snakepit-15 amplifier features a cool retro-rock look with premium appointments, 15 watts of power with 8" speaker, and two channels (clean and overdrive) with separate controls. </p>
+                <p class="product-price">$399.99</p>
             </div>
         </div>
         <!-- Repeat for more products -->
