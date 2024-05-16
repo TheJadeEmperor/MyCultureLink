@@ -106,7 +106,7 @@
 
           <p>The Les Paul AFD Special-II guitar is equipped with new Ceramic Plus Humbucking pickups, a AAA Flame Maple top with cherry Mahogany back, a bound body, and a built in Shadow pickup ring E-Tuner. The Slash Snakepit-15 amplifier features a cool retro-rock look with premium appointments, 15 watts of power with 8" speaker, and two channels (clean and overdrive) with separate controls. </p>
                 <p class="product-price">$399.99</p>
-            </div>
+          </div>
         </div>
         <!-- Repeat for more products -->
     </div>
@@ -153,7 +153,7 @@
 
 .product-price {
     font-size: 1.2em;
-    color: #b12704;
+    color: #e9be3c;
 }
 
 @media (max-width: 768px) {

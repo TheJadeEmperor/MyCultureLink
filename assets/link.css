@@ -25,10 +25,9 @@ body {
   box-sizing: border-box;
 }
 
-
 .container {
   padding: 60px 0px 300px 0px;
-  background-color: rgba(22, 34, 57, 0.4);
+  background-color: rgba(22, 34, 57, 0.6);
   color: rgb(255, 255, 255);
   font-size: 18px;
 }
