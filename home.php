@@ -97,7 +97,25 @@
             </div>
         </div>
         <div class="product">
-          <img src="images/products/339251_339251-Generic-1-Original.jpg" alt="Product 2" class="product-image">
+          <img src="images/products/EPI PPGSENA2 AANH3.jpg" alt="Product 3" class="product-image">
+          <div class="product-details">
+          <h2 class="product-title">Epiphone Les Paul Player Pack Electric Guitar Package Ebony</h2>
+          <p class="product-description"><p>Epiphone Les Paul Player Pack Electric Guitar Package Ebony</p>
+
+          <p>The ultimate starter pack for beginners! The Epiphone Les Paul Player Pack Electric Guitar Package includes a high quality Les Paul Player Pack guitar, Electar amp and all the basic accessories you need including a gigbag, clip on tuner, strap, cable, and picks. This players pack also comes with free downloadable guitar lessons from eMedia covering rock, blues, folk, country, hard rock, metal, and everything in between to get you playing right away!
+
+<p>The Les Paul Player Pack guitar is renowned for its monstrous tone thanks to two open coil humbuckers and a solid wood body with the classic Les Paul Special profile. Together, they produce that one of a kind Les Paul roar. Unlike single coil pickups that are sensitive to interference from nearby electric sources, Epiphone humbucker pickups ‘buck the hum’, giving you buzz free tone that can go from clean to overdrive without the extra noise.</p>
+
+<p>The Les Paul Player Pack also includes a portable Epiphone Electar 10 watt amp with a 6 inch speaker. Low watt guitar amps are popular for beginners and pros alike for their just right, easy to get tone that sounds full and strong even at low volume. The Electar features a classic open back cab, simple controls for master volume, treble, and bass, an auxiliary input for piping in practice music, and a headphone jack so you can rock out without waking your neighbors.</p>
+
+<p>eMedia Guitar Lessons<br />
+eMedia’s introductory guitar lessons offer easy instructional videos that expand to full screen. The eMedia software includes powerful, new interactive feedback on melodies and full complement of helpful tools such as the new Note Tracker and Finger Tracker, which show you what you’re playing in staff notation and also on an animated fretboard. This amazing technology track your progress through the song as you play! Sons and exercises can be heard either as live recorded audio or as MIDI tracks that you can slow down or speed up.
+</p>
+                <p class="product-price">$289.99</p>
+          </div>
+        </div>
+        <div class="product">
+          <img src="images/products/EPI PPGSENA2 LIST-M17-HiRes.jpg" alt="Product 2" class="product-image">
           <div class="product-details">
           <h2 class="product-title">Epiphone Slash AFD Les Paul Special II Performance Package</h2>
           <p class="product-description"><p>Description For Epiphone Slash AFD Les Paul Special II Performance Package </p>
