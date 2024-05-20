@@ -137,10 +137,10 @@
         <?php
           $gallArray = array(
             'id' => 'les_paul',
-            0 => 'EPI PPGSENA2 AANH3.jpg',
-            1 => 'EPI PPGSENA2 LIST-M1-HiRes.jpg',
-            2 => 'EPI PPGSENA2 LIST-M2-HiRes.jpg',
-            3 => 'EPI PPGSENA2 LIST-M4-HiRes.jpg',
+            0 => 'les_paul_1.jpg',
+            1 => 'les_paul_2.jpg',
+            2 => 'les_paul_3.jpg',
+            3 => 'les_paul_4.jpg',
           );
 
           goddamGallery($gallArray);
@@ -167,11 +167,11 @@
           
         <?php
           $gallArray = array(
-            'id' => 'slash',
-            0 => 'EPI PPGSENA2 LIST-M17-HiRes.jpg',
-            1 => 'EPI PPGSENA2 LIST-M18-HiRes.jpg',
-            2 => 'EPI PPGSENA2 LIST-M-HiRes.jpg',
-            3 => 'EPI PPGSENA2 LIST-M9-HiRes.jpg',
+            'id' => 'slash_afd',
+            0 => 'slash_afd_1.jpg',
+            1 => 'slash_afd_2.jpg',
+            2 => 'slash_afd_3.jpg',
+            3 => 'slash_afd_4.jpg',
           );
 
           goddamGallery($gallArray);
