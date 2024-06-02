@@ -3,7 +3,7 @@
 <div class="container">
 
   <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
-  <!--
+
     <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
     <script type="text/javascript">
     MRP.insert({
@@ -20,13 +20,13 @@
     'height':150
     });
     </script>
-  -->
+  
   <!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
-<!--
+
 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
 <div class="elfsight-app-7b1f289d-4ad0-446a-8543-6693f4038fd2" data-elfsight-app-lazy>
 </div>
-  -->
+  
 
   <div class="row">
     <div class="col-lg">
